@@ -10,7 +10,7 @@ layout: slide
 
   [Moisés Guimarães de Medeiros](https://github.com/moisesguimaraes)
 
-  June 8, 2017
+  Praha, June 8, 2017
 </script></section>
 
 <section data-markdown><script type="text/template">
